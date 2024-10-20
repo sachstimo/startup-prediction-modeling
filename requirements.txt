@@ -1,0 +1,6 @@
+# Since this as my first ML project, no rules of "good" coding practices were followed.
+# If I recall correctly, these were the versions used.
+
+python = 3.7.4.final.0
+virtualenv = 20.4.7
+scikit-learn = 
