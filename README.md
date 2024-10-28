@@ -19,8 +19,9 @@ Looking back at this code, there are several improvements I would implement to m
 
 ## Main Outcomes
 
-
----
+![Accuracy scores](plots/ConfusionMatrices.png)
+![Accuracy scores](plots/AccuracyScores.png)
+![Accuracy scores](plots/ROC.png)
 
 ### Breakdown of the Code
 
